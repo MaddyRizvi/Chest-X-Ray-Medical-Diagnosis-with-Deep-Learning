@@ -1,6 +1,6 @@
 # Chest X-Ray Medical Diagnosis with Deep Learning
 
-This project explores chest X-ray medical diagnosis with deep learning. It demonstrates how to build and evaluate a state-of-the-art image classifier using Keras and DenseNet121. The workflow covers data preparation, preventing data leakage, handling class imbalance, training with transfer learning, and evaluating model performance with ROC curves, AUC, and GradCAM visualizations.
+This project explores **chest X-ray** medical diagnosis with deep learning. It demonstrates how to build and evaluate a state-of-the-art image classifier using Keras and DenseNet121. The workflow covers data preparation, preventing data leakage, handling class imbalance, training with transfer learning, and evaluating model performance with ROC curves, AUC, and GradCAM visualizations.
 
 
 <img width="870" height="270" alt="Image" src="https://github.com/user-attachments/assets/ec75e1f7-c14a-48e2-9fbb-7fdaa029c8b3" />
