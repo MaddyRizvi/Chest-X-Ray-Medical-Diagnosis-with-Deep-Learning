@@ -421,7 +421,7 @@ $$freq_{n} = \frac{\text{number of negative examples}}{N}.$$
 ### Exercise 2 - Compute Class Frequencies
 Complete the function below to calculate these frequences for each label in our dataset.
 
-<details>    
+  
 <summary>
     <font size="3" color="darkgreen"><b>Hints</b></font>
 </summary>
