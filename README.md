@@ -475,7 +475,7 @@ array([0.02 , 0.013, 0.128, 0.002, 0.175, 0.045, 0.054, 0.106, 0.038,
 
 Let's visualize these two contribution ratios next to each other for each of the pathologies:
 
-![png](output_41_0.png)
+<img width="401" height="350" alt="Image" src="https://github.com/user-attachments/assets/6edf0363-7629-4736-9c32-7b26b5c93411" />
 
 
 As we see in the above plot, the contributions of positive cases is significantly lower than that of the negative ones. However, we want the contributions to be equal. One way of doing this is by multiplying each example from each class by a class-specific weight factor, $w_{pos}$ and $w_{neg}$, so that the overall contribution of each class is the same. 
@@ -494,7 +494,7 @@ This way, we will be balancing the contribution of positive and negative labels.
 
 Let's verify this by graphing the two contributions next to each other again:
 
-![png](output_45_0.png)
+<img width="410" height="344" alt="Image" src="https://github.com/user-attachments/assets/6e3226c9-4de6-4814-95e3-790592ae7bc5" />
 
 As the above figure shows, by applying these weightings the positive and negative labels within each class would have the same aggregate contribution to the loss function. Now let's implement such a loss function. 
 
