@@ -235,7 +235,6 @@ It is worth noting that our dataset contains multiple images for each patient. T
 ### Exercise 1 - Check for Leakage
 In the cell below, write a function to check whether there is leakage between two datasets. We'll use this to make sure there are no patients in the test set that are also present in either the train or validation sets.
 
-<details>    
 <summary>
     <font size="3" color="darkgreen"><b>Hints</b></font>
 </summary>
