@@ -6,8 +6,7 @@ Please take a moment to review the following guidelines to help us maintain a sm
 ---
 
 ## 📂 Project Structure
-- `C1_W1_Assignment_clean.md` – Assignment instructions and explanations (without code).
-- `C1_W1_Assignment_code.ipynb` – Jupyter Notebook containing all the code cells.
+- `chest_x_ray_model.ipynb` – Jupyter Notebook containing all the code cells.
 - `CONTRIBUTING.md` – This contribution guide.
 
 ---
@@ -20,12 +19,12 @@ Please take a moment to review the following guidelines to help us maintain a sm
 - Include screenshots, logs, or error messages if relevant.
 
 ### 2. Improving Documentation
-- Update `C1_W1_Assignment_clean.md` for explanations, formatting, or typo fixes.
+- Update `chest_x_ray_model.ipynb` for explanations, formatting, or typo fixes.
 - Use proper Markdown syntax for readability.
 - Do **not** add executable code into `.md`. All code should go into `.ipynb`.
 
 ### 3. Contributing Code
-- Add or update code only inside `C1_W1_Assignment_code.ipynb`.
+- Add or update code only inside `chest_x_ray_model.ipynb`.
 - Ensure that all cells run without errors before committing.
 - Use clear variable names and comments where necessary.
 
