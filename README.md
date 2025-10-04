@@ -309,9 +309,6 @@ df2
 2           5
 leakage output: False
 ```
-```
- All tests passed.
-```
 
 Run the next cell to check if there are patients in both train and test or in both valid and test.
 
