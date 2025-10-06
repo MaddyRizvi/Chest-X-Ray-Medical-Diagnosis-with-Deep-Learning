@@ -580,8 +580,6 @@ With our model ready for training, we will use the `model.fit()` function in Ker
 
 Since training can take a considerable time, for pedagogical purposes we have chosen not to train the model here but rather to load a set of pre-trained weights in the next section. However, you can use the code shown below to practice training the model locally on your machine or in Colab.
 
-**NOTE:** Do not run the code below on the Coursera platform as it will exceed the platform's memory limitations.
-
 Python Code for training the model:
 
 <a name='4-1'></a>
